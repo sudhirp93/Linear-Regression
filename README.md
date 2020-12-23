@@ -1,4 +1,4 @@
 # Linear Regression
 ## Prediction of test score
 
-Performed Linear Regression to build Supervised ML model and predicted the test score based on their number of study hours. This model can be very useful for keeping a track of students performance.
+Business problem: Prediction of test score of students based on their study hours
